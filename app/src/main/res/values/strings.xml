@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WSDL</string>
+
+    <string name="action_settings">Opções</string>
+    <string name="title_activity_busca_cep_logradouro">Busca Cep e Logradouro</string>
+
+    <string name="title_section1">CEP</string>
+    <string name="title_section2">Logradouro</string>
+    <string name="title_section3">Resultado</string>
+</resources>
